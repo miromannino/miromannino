@@ -3,4 +3,4 @@ Hi there! I’m Miro, a Computer Scientist working at the Human Data Interaction
 A more complete list of my projects: <a href="https://miromannino.com/projects/">https://miromannino.com/projects/</a>
 
 ### Contact me: 
-<img height="18" src="https://raw.githubusercontent.com/miromannino/miromannino/main/my-email.svg" />
+<a href="#"><img height="18" src="https://raw.githubusercontent.com/miromannino/miromannino/main/my-email.svg" /></a>
