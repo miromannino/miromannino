@@ -5,7 +5,7 @@ A more complete list of my projects: <a href="https://miromannino.com/projects/"
 <br/>
 
 <div>
-      <a href="#"><img align=top height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromannino&layout=compact&hide=php,html&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" /></a>
+      <a href="#"><img align=top height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromannino&layout=compact&hide=php,html&count_private=true&hide_title=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats" /></a>
 </div>
   
 <!--
