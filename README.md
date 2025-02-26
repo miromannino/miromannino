@@ -1,4 +1,7 @@
-I am a Full-Stack Senior Software Engineer working in the UAE. I have collaborated on projects with the UAE Space Agency and UAE Ministry of Health. I have also worked for New York University, publishing several scientific papers, some of which received awards. In Italy, I worked for CRIF, recognized globally as a leading AI decisioning platform provider.
+I am a Full-Stack Senior Software Engineer from Italy, living in UAE.
+
+I have collaborated on projects with the UAE Space Agency and UAE Ministry of Health. I also worked for New York University, publishing several scientific papers, some of which received awards. 
+In Italy, I worked for CRIF, recognized globally as a leading AI decisioning platform provider.
   
 I have created personal projects with over 2 million users, an app with over 150,000 downloads, and open-source projects used by hundreds of thousands of websites.  
 
