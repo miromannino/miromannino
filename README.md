@@ -1,15 +1,13 @@
-I am a Full-Stack Senior Software Engineer from Italy, living in UAE.
+I am a Full-Stack Senior Software Engineer from Italy, living in Dubai.
 
-I have collaborated on projects with the UAE Space Agency and UAE Ministry of Health. I also worked for New York University, publishing several scientific papers, some of which received awards. 
-In Italy, I worked for CRIF, recognized globally as a leading AI decisioning platform provider.
-  
-I have created personal projects with over 2 million users, an app with over 150,000 downloads, and open-source projects used by hundreds of thousands of websites.  
+I started coding at age 11 and never stopped. I earned both my Bachelor's and Master's degrees from the University of Bologna with top honors, equivalent to a 4.0 GPA, despite working part-time to support my studies.
 
-Originally from Italy, I earned my MS and BS from the University of Bologna.
+I've worked across the private, academic, and public sectors—ranging from a financial system used by the Italian credit bureau, to award-winning research at New York University, and collaborations on national projects in the UAE, including the Space Agency and Ministry of Health. I currently lead development of a real-time data processing and visualization application.
 
+Privately, I've built both open-source tools and independent apps. Justified Gallery was adopted by hundreds of thousands of websites, including 500px. Others include Ruzzle Solver that reached around two million users and an Android game with over 150,000 downloads.
 <br/>
 
-A more complete list of my projects: <a href="https://miromannino.com/portfolio/">https://miromannino.com/portfolio/</a>
+Here on GitHub you can find my open source personal projects, with a more complete list at <a href="https://miromannino.com/portfolio/">https://miromannino.com/portfolio/</a>
 
 <br/>
 
